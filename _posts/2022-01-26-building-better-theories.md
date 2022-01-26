@@ -1,15 +1,13 @@
-# Building Better Theories (Press, Yon & Heyes, 2022)
+# How does one build a good theory?
 
-**Title:** Building better theories  
+This paper was shared within the lab by Rachel Bedder who was preparing a talk on theory-building. I had just read Rigoli's paper about their reference-dependent model of subjective evaluation and was feeling somewhat dissatisfied at their "explanation" (I kept thinking it was more of a description of an observed phenomena instead) -- hence, this paper caught my eye! I am also unfamiliar with the process of developing a sound theory, and so was interested in what might be a foundational reading to formulate my understanding upon.
+
+----
+
+### Building better theories  
 **Authors:** Clare Press, Daniel Yon, Cecilia Heyes  
 **Year:** 2022  
 [Link to paper](https://www.sciencedirect.com/science/article/pii/S0960982221015517?dgcid=author)
-
-### What prompted me to read this paper:
-*(setting the context; what questions am I thinking, what answers am I looking for?)*
-- This paper was shared in our lab by Rachel Bedder who was preparing a talk related to theory-building.
-- I had just read Rigoli's 2021 paper and felt dissatisfied at their "explanation", which I felt was more a description instead - hence, this caught my eye.
-- I have been toying with my own questions about depression and the distinction between mechanistic explanations vs descriptions of phenomena.
 
 ### Summary of what the paper says and does:
 *(In my own words: Problem, approach, methods, conclusions as stated by the authors)*
@@ -30,7 +28,7 @@ The authors here argue for risky testing, where you try to pit theories against 
 7. When there's a negative result - is it really evidence against the theory, or could it be measurement or methodological inprecision?  
 How good are our measurement tools? What assumptions are we not questioning? Are we 100% certain about the causes of negative results? But also, to balance that with a healthy dose of reality checking and letting go of theories that are proven wrong.
 
-Overall: Make sure you start with the right question - then consider ways to test your theory that give you '_biggest bang for your buck_' - always be questioning your assumptions, your approaches and tools - and finally, don't get personally defensive for your theories and let it go if they're really wrong.
+**Overall:** Make sure you start with the right question - then consider ways to test your theory that give you '_biggest bang for your buck_' - always be questioning your assumptions, your approaches and tools - and finally, don't get personally defensive for your theories and let it go if they're really wrong.
 
 ### Summary of what I thought of the paper:
 *(Is it fundamentally sound? Does it uncover anything useful? Did they miss something? What questions are left unanswered?)*

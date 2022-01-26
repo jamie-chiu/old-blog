@@ -4,7 +4,7 @@ Today, I participated in a Drop-Everything-And-Read day. It felt great to not ha
 
 ---
 
-**Title:** The half-empty/full glass in mental health: A reference-dependent computational model of evaluation in psychopathology  
+### The half-empty/full glass in mental health: A reference-dependent computational model of evaluation in psychopathology  
 **Authors:** Francesco Rigoli, Cristina Martinelli, Giovanni Pezzulo  
 **Year:** 2021  
 [Link to paper](https://journals.sagepub.com/doi/10.1177/2167702621998344)

@@ -8,4 +8,4 @@ Some loosely-articulated questions that I have been thinking about recently (you
 2. Why, if depressed individuals are persistently pessimistic in their expectations, do they not experience / integrate prediction errors?
 3. What is the role of the psychotherapist and the therapist-patient relationship on how depressed patients might evaluate themselves and the world?
 
-Thank you for stopping by. I hope you will find something helpful for yourself here. Feel free to reach out if you have questions, are asking the same questions, or have feedback and comments for me! 
+Thank you for stopping by. I hope you will find something useful here. Feel free to reach out if you have questions, are asking the same questions, or have feedback and comments for me! 

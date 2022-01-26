@@ -1,4 +1,4 @@
-# The Half-Empty/Full Glass in Mental Health: A Reference-Dependent Computational Model of Evaluation in Psychopathology  (Rigoli, Martinelli & Pezzulo, 2021)
+# The Half-Empty/Full Glass in Mental Health: A Reference-Dependent Computational Model of Evaluation in Psychopathology  (Rigoli, Martinelli &amp; Pezzulo, 2021)
 
 **Title:** The Half-Empty/Full Glass in Mental Health: A Reference-Dependent Computational Model of Evaluation in Psychopathology  
 **Authors:** Francesco Rigoli, Cristina Martinelli, Giovanni Pezzulo  

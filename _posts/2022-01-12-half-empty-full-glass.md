@@ -1,4 +1,4 @@
-# How we evaluate outcomes depends on the context!
+# How does context influence our subjective evaluation of an outcome?
 
 Today, I participated in a Drop-Everything-And-Read day. It felt great to not have any excuses (_oh, I'll just write this email first; let me just get that sorted quickly_) and to actually get stuck into my reading list! I have been meaning to read the following paper for quite some now -- mainly because it had a very catchy title but also I was interested to find examples of how others are developing formal models for psychopathology. (Unfortunately, as you will see below in my personal thoughts, it was a slightly disappointing read).
 

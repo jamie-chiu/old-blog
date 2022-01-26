@@ -1,14 +1,13 @@
-# A Reference-Dependent Computational Model of Evaluation in Psychopathology (Rigoli, Martinelli '&' Pezzulo, 2021)
+# How we evaluate outcomes depends on the context!
+
+Today, I participated in a Drop-Everything-And-Read day. It felt great to not have any excuses (_oh, I'll just write this email first; let me just get that sorted quickly_) and to actually get stuck into my reading list! I have been meaning to read the following paper for quite some now -- mainly because it had a very catchy title but also I was interested to find examples of how others are developing formal models for psychopathology. (Unfortunately, as you will see below in my personal thoughts, it was a slightly disappointing read).
+
+---
 
 **Title:** The half-empty/full glass in mental health: A reference-dependent computational model of evaluation in psychopathology  
 **Authors:** Francesco Rigoli, Cristina Martinelli, Giovanni Pezzulo  
 **Year:** 2021  
 [Link to paper](https://journals.sagepub.com/doi/10.1177/2167702621998344)
-
-### What prompted me to read this paper:
-*(setting the context; what questions am I thinking, what answers am I looking for?)*
-- I was interested in finding examples of formal descriptions of models.
-- And honestly, it was just a very catchy title.
 
 ### Summary of what the paper says and does:
 *(In my own words: Problem, approach, methods, conclusions as stated by the authors)*
@@ -28,3 +27,6 @@ The model is then hypothetically applied to different cases of psychopathology, 
 - How does a depressed individual come to have a reference point that is outside of the possible outcomes? The authors allude to a few reasons - genetic predisposition, trauma, etc. but none of them feel satisfying as answers.
     - The authors briefly mention trauma -- acknowledging that it does not match the model's description of depressed individuals having an extreme high reference point; an explanation is attempted to say perhaps it is learning rate that is impaired instead, but I am left unsatisfied as to how an extremely low or high learning rate would lead to an extremely high reference point that goes beyond possible outcomes.
 - Why does the reference point change when the authors explain drug addiction, but not for depression? How is this ability to change reference points accounted for by the model (well, it doesn't) but I thought it was a little contradictory that they would say the reference moves up after a few "highs" from taking drugs, but the reference doesn't drop from setbacks in depression?
+
+
+

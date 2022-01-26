@@ -1,0 +1,1 @@
+This is the repo that drives Skull Matters - a personal project where I summarise and share my thoughts on papers that I read in the area of depression, computational psychiatry, and change mechanisms.

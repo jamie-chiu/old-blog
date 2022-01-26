@@ -1,4 +1,4 @@
-# Building Better Theories (Press, Yon, Heyes, 2022)
+# Building Better Theories (Press, Yon & Heyes, 2022)
 
 **Title:** Building better theories  
 **Authors:** Clare Press, Daniel Yon, Cecilia Heyes  
@@ -8,7 +8,7 @@
 ### What prompted me to read this paper:
 *(setting the context; what questions am I thinking, what answers am I looking for?)*
 - This paper was shared in our lab by Rachel Bedder who was preparing a talk related to theory-building.
-- I had just read Rigoli's 2019 paper and felt dissatistifed at their "explanation", which I felt was more a description instead - hence, this caught my eye.
+- I had just read Rigoli's 2021 paper and felt dissatisfied at their "explanation", which I felt was more a description instead - hence, this caught my eye.
 - I have been toying with my own questions about depression and the distinction between mechanistic explanations vs descriptions of phenomena.
 
 ### Summary of what the paper says and does:

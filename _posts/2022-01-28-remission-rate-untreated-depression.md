@@ -1,4 +1,4 @@
-# What is the Short-Term Remission Rate for Untreated Depression?
+# What is the short-term remission rate for untreated depression?
 
 One area that I am interested in is the phenomena of spontaneous recovery. Getting data on how often that happens seemed like a good starting point.
 

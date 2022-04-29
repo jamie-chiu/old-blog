@@ -7,11 +7,11 @@ Motivational incongruence -- this is one of those terms that capture a phenomena
 **Year:** 2019
   
 ### Abstract:  
-*(copy + paste from paper)*  
+*(copy + paste from paper)*    
 Early general change mechanisms (GCMs) have been shown to be associated with psychotherapy outcome but it remains unclear which specific patients benefit from which GCM. This study explored whether the patients' characteristic motivational incongruence moderates the effect of GCMs in the early treatment phase on the outcome. Three early GCMs (interpersonal experiences, intrapersonal experiences, and problem actuation) were evaluated after five therapy‐preparing sessions by patients and therapists. On the basis of previous work, we assumed that the association between intrapersonal experiences and outcome is moderated by incongruence. A total of 524 patients completing outpatient cognitive behavioural therapy (CBT) were investigated. The patient‐reported outcome measure was psychological symptom severity. The patients' motivational incongruence was assessed with the incongruence questionnaire short form at baseline. Results showed that therapists' ratings of all three early GCMs and patients' ratings of early problem actuation were not associated with CBT outcome. By contrast, positive patients' ratings of early interpersonal and early intrapersonal experiences were beneficial for CBT outcome (both p < .05). Only the association between patients' ratings of early intrapersonal experiences and CBT outcome was moderated by incongruence (p < .05). The higher the patients' baseline incongruence was, the more beneficial early intrapersonal experiences in the patients' perspective were for a good outcome. These findings entail that increasing early intrapersonal experiences from the patients' perspective is particularly important in patients with motivational incongruence but working on early interpersonal experiences in the patients' perspective is important in patients with all levels of incongruence to reach a good CBT outcome.
 
 ### Summary of what the paper says and does:
-*(in my own words: Problem, approach, methods, conclusions as stated by the authors)*
+*(in my own words: Problem, approach, methods, conclusions as stated by the authors)*  
 The Premise: You can personalise psychotherapy via two routes - 1. what specific treatment does a particular patient need?; and 2. what general change mechanisms should be targeted based on the patient's state?
 - There are three main general change mechanisms (Fluckiger et al, 2013):
   1. Interpersonal experiences within the therapy context, i.e. the therapist-patient alliance
@@ -24,7 +24,7 @@ Results: Patients with high motivational incongruence benefited more from early 
 
 
 ### Summary of what I thought of the paper:
-*(Is it fundamentally sound? Does it uncover anything useful? Did they miss something? What questions are left unanswered?)*
+*(Is it fundamentally sound? Does it uncover anything useful? Did they miss something? What questions are left unanswered?)*  
 - One knock against was a claim in the introduction about therapuetic alliance having an effect size of 0.57 (when they reported a Pearson's correlation of 0.3, and then "converted" it to Cohen's d). I feel like this is inappropriate. -- *I have seen this in several papers now...I would appreciate any input here about whether this is appropriate or not??*
 - The relationship seen in patients' rating but NOT therapists' ratings also raises some questions -- is this a case where patient knows best because, after all, this is about them; or is it discrepancy between what the therapists were rating the patients on (that maybe those aspects were not interpreted the same by patients); or is this a case of patient's self-report correlating with their own self-report?? (But then it doesn't explain why other variables were not similarly correlated)
 - My take-away: Motivational incongruence is an example of describing where a patient is on the readiness spectrum. If one is experiencing a great deal of conflict between goals and behaviours but had no idea how to explain/make sense of it, or don't know the strategies to resolve that conflict, then it makes sense that they would benefit more from strategies focused on those things (like mastery, coping, meaning).

@@ -12,10 +12,20 @@ Early general change mechanisms (GCMs) have been shown to be associated with psy
 
 ### Summary of what the paper says and does:
 *(in my own words: Problem, approach, methods, conclusions as stated by the authors)*
-
+The Premise: You can personalise psychotherapy via two routes - 1. what specific treatment does a particular patient need?; and 2. what general change mechanisms should be targeted based on the patient's state?
+- There are three main general change mechanisms (Fluckiger et al, 2013):
+  1. Interpersonal experiences within the therapy context, i.e. the therapist-patient alliance
+  2. Intrapersonal experiences for the patient with regards to having a meaning or explanation of symptoms/distress, ability and motivation of the patient to change
+  3. Problem actuation - the actual dealing of the problem within therapy and the resources available to the patient to actually change
+- Using Grawe's consistency theory, a patient's state of motivational congruence / incongruence might influence how ready they are to engage in change in psychotherapy. Motivational incongruence is described as the discrepancy between your motivational goals and the action being taken to meet those goals -- for example, you might crave strong connections with others but because of a fear of rejection, you isolate yourself and withhold yourself from engaging socially. This is said to lead to psychological pain and distress.
+The Research Question: Does motivational incongruency moderate the effect of general change mechanisms on the outcome of psychotherapy?
+- Specifically, the interest was on whether intrapersonal experiences on CBT outcome were moderated by motivational incongruence.
+Results: Patients with high motivational incongruence benefited more from early intrapersonal experiences. This means that when patients were able to report experiences of mastery, coping, or meaning, experienced greater symptom change. However, this was only for patients' self-report ratings and no relationship was observed from therapists' ratings. (Goes to show that therapists should always look for patients' perspectives?) Moderation effects not found for interpersonal or problem actuation.
 
 
 ### Summary of what I thought of the paper:
 *(Is it fundamentally sound? Does it uncover anything useful? Did they miss something? What questions are left unanswered?)*
-
+- One knock against was a claim in the introduction about therapuetic alliance having an effect size of 0.57 (when they reported a Pearson's correlation of 0.3, and then "converted" it to Cohen's d). I feel like this is inappropriate. -- *I have seen this in several papers now...I would appreciate any input here about whether this is appropriate or not??*
+- The relationship seen in patients' rating but NOT therapists' ratings also raises some questions -- is this a case where patient knows best because, after all, this is about them; or is it discrepancy between what the therapists were rating the patients on (that maybe those aspects were not interpreted the same by patients); or is this a case of patient's self-report correlating with their own self-report?? (But then it doesn't explain why other variables were not similarly correlated)
+- My take-away: Motivational incongruence is an example of describing where a patient is on the readiness spectrum. If one is experiencing a great deal of conflict between goals and behaviours but had no idea how to explain/make sense of it, or don't know the strategies to resolve that conflict, then it makes sense that they would benefit more from strategies focused on those things (like mastery, coping, meaning).
 

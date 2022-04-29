@@ -1,4 +1,4 @@
-# The distance between where you are at vs where you want to be -- How does that discrepancy influence therapy outcomes?
+# The distance between where you are at vs where you want to be
 
 Motivational incongruence -- this is one of those terms that capture a phenomena I am well acquainted with but never knew the term for it. Motivational incongruence is something I think about a lot. Many patients I have treated experience it. For example, if you have social anxiety, you might crave for meaningful relationships but your anxiety drives you to act in ways that move you further from your goals. Another example is if you say you just want to be happy but you ruminate a lot on how depressed you feel. One way that I think about motivational incongruence is when you act in ways that *you believe* will get you to your goal, but it actually does not, and likely moves you farther. 
 
